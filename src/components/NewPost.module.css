@@ -1,9 +1,9 @@
 .form {
-  width: 20rem;
+  width: 40rem;
   margin: 2rem auto;
   padding: 1rem;
   list-style: none;
-  background-color: #586469;
+  background-color: #218fbe;
   border-radius: 6px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
 }
@@ -27,7 +27,7 @@
 
 .form button {
   padding: 0.25rem 1rem;
-  background-color: #a4b3e9;
+  background-color: #5ee971;
   border: none;
   border-radius: 2px;
   cursor: pointer;
